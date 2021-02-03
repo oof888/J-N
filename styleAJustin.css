@@ -18,7 +18,7 @@ margin-top: 10px;
 
 
 .mainParagraph:hover{
-    transition: 3s;
+    transition: 0s;
 font-size: xx-large;
 }
 
